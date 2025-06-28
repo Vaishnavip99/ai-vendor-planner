@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Banquets",
+    "type": "venue",
+    "location": "Pune",
+    "price": 100000,
+    "rating": 4.5,
+    "available_dates": ["2025-12-20", "2025-12-25"]
+  },
+  {
+    "id": 2,
+    "name": "Delight Caterers",
+    "type": "caterer",
+    "location": "Pune",
+    "price": 500,
+    "rating": 4.2,
+    "available_dates": ["2025-12-20"]
+  },
+  {
+    "id": 3,
+    "name": "Floral Touch Decor",
+    "type": "decorator",
+    "location": "Pune",
+    "price": 40000,
+    "rating": 4.0,
+    "available_dates": ["2025-12-19", "2025-12-20"]
+  },
+  {
+    "id": 4,
+    "name": "Skyline Venues",
+    "type": "venue",
+    "location": "Mumbai",
+    "price": 120000,
+    "rating": 4.3,
+    "available_dates": ["2025-12-20"]
+  }
+]
