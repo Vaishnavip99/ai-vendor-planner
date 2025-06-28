@@ -13,7 +13,6 @@ This project was built as part of **Round 1 of the AI Developer Internship at Ut
 > Note: This is a **concept demo**, not a production-ready system. The logic is designed to reflect how a real AI assistant might work in a simplified event planning context.
 
 ## 🔧 Tech Used
-
 - Python (core logic)
 - JSON (mock input/output data)
 - Basic AI-style scoring logic (custom)
